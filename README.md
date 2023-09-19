@@ -1,2 +1,3 @@
-# Send_Cards
-A flutter app to send giftcards to your loved ones
+# Flutter Gift Card App UI
+
+A Flutter Gift Card app. UI by [maxonflutter](https://maxonflutter.com/)
